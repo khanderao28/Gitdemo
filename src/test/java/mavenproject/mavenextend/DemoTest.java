@@ -67,7 +67,7 @@ public class DemoTest {
 	public void demo() throws IOException {
 		
 		extent.createTest("Demo");
-		// System.out.println("hello");
+		 System.out.println("hello");
 		System.out.println("takiig  srcs");
 		File src = ((TakesScreenshot) d).getScreenshotAs(OutputType.FILE);
 		FileHandler.copy(src, new File("E://facebook.png"));
