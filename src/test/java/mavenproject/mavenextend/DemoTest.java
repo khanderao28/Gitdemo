@@ -93,6 +93,8 @@ public class DemoTest {
 		System.out.println("hello21");
 		System.out.println("hello12");
 		System.out.println("new master");
+		
+		System.out.println("new branch develop1");
 	}
 	
 	@AfterTest
