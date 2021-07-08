@@ -90,7 +90,7 @@ public class DemoTest {
 	@Test()
 	public void add1()
 	{
-		
+		System.out.println("hello21");
 		System.out.println("hello12");
 	}
 	
