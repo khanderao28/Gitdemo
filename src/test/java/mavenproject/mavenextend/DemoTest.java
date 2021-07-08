@@ -86,6 +86,14 @@ public class DemoTest {
 		
 	}
 
+	
+	@Test()
+	public void add1()
+	{
+		
+		System.out.println("hello12");
+	}
+	
 	@AfterTest
 
 	public void closeb() {
