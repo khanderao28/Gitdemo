@@ -95,6 +95,8 @@ public class DemoTest {
 		System.out.println("new master");
 		
 		System.out.println("new branch develop1");
+		
+		System.out.println("final");
 	}
 	
 	@AfterTest
