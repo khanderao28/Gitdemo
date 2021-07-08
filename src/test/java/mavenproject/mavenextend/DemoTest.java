@@ -80,6 +80,7 @@ public class DemoTest {
 	public void login() {
 		extent.createTest("login");
 		System.out.println("hello2");
+		System.out.println("hello4");
 		
 	}
 
